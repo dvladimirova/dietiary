@@ -1,0 +1,1 @@
+GET   /groups   controllers.GroupController.addGroupToDatabase
